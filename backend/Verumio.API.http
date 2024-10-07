@@ -1,0 +1,4 @@
+@Verumio.API_HostAddress = http://localhost:5275
+
+GET {{Verumio.API_HostAddress}}/rectangle/
+Accept: application/json
